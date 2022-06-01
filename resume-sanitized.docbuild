@@ -1,0 +1,185 @@
+metadata {
+    title: Resume
+    style {
+        page_size: PortraitLetter
+        background_color: #000
+    }
+}
+
+
+page {
+    horizontal {
+        vertical {
+            section {
+                content {
+                    # Education
+                    - AP Computer science
+                    - Northeast High School Academy of Information Technology graduate: class of
+                        2021
+                }
+                style {
+                    margin: 0.1in
+                    font_size: 10pt
+                }
+            }
+            section {
+                content {
+                    -----------------
+                }
+                style {
+                    height: 1%
+                }
+            }
+            section {
+                content {
+                    # Contact Information
+                    爵 [clinery1.github.io](https://clinery1.github.io)
+                     [github.com/Clinery1](https://github.com/Clinery1)
+                     *REDACTED*
+                     *REDACTED*
+                     *REDACTED*
+                     [linkedin.com/in/christopher-nguyen-57622a234](https://www.linkedin.com/in/christopher-nguyen-57622a234/)
+                }
+                style {
+                    margin: 0.1in
+                }
+            }
+            section {
+                content {
+                    -----------------
+                }
+                style {
+                    height: 1%
+                }
+            }
+            section {
+                content {
+                    [^1]:
+                    Can be verified at [verify.certiport.com](https://verify.certiport.com)
+                    - Word: HuHq-XMYb
+                    - Excel: ECmc-XVHU
+                    - Powerpoint: EkGQ-XVHy
+                }
+                style {
+                    height: 8%
+                    margin: 0.1in
+                    font_size: 8pt
+                }
+            }
+            section {
+                content {
+                    [^2]:
+                    Can be verified at [verify.certiport.com](https://verify.certiport.com)
+                    - HTML+CSS: davQ-uTYP
+                    - Javascript: 5a2q-4Tp8
+                }
+                style {
+                    height: 8%
+                    margin: 0.1in
+                    font_size: 8pt
+                }
+            }
+            style {
+                font_size: 10pt
+                background_color: #def
+                width: 30%
+            }
+        }
+        vertical {
+            section {
+                content {
+                    # Christopher Nguyen
+                }
+                style {
+                    font_size: 14pt
+                    vertical_text_align: Center
+                    horizontal_text_align: Center
+                    background_color: #fcc
+                    height: 1in
+                }
+            }
+            vertical {
+                section {
+                    content {
+                        # Work experience
+                        - Volunteered at a Martial Arts center during “Friday fun night” providing audio/visual support.
+                        - Volunteered at Northeast High school's Academy Of Information Technology (AOIT) open house.
+                        - Volunteered summer of 2020 at Paul Acklin’s Superkicks.
+                    }
+                    style {
+                        margin: 0.1in
+                        height: 16%
+                    }
+                }
+                section {
+                    content {
+                        -----------------
+                    }
+                    style {
+                        height: 1%
+                    }
+                }
+                section {
+                    content {
+                        # Skills
+                        - C, C++
+                        - x86 Assembly
+                        - Rust
+                        - HTML+CCS+JS
+                        - Python
+                        - Programming language design
+                        - 2 years experience with the Godot game engine
+                        - Game development without a game engine
+                        - 4 years of experience using a Linux CLI
+                        - 2+ years of using only VIM
+                        - Basic CAD drawing: FreeCAD and OpenSCAD
+                        - Experience using and maintaining a 3D printer
+                        - Experience maintaining and assembling laptop and desktop computers
+                        - Experience using a Raspberry PI
+                        - Certified in Word, Excel, and Powerpoint 2016[^1]
+                        - Certified in HTML+CSS and Javascript[^2]
+                    }
+                    style {
+                        margin: 0.1in
+                        height: 38%
+                    }
+                }
+                section {
+                    content {
+                        -----------------
+                    }
+                    style {
+                        height: 1%
+                    }
+                }
+                section {
+                    content {
+                        # Current Projects
+                        - ## [DocBuilder](https://github.com/Clinery1/docbuilder)
+                            A language that allows you to create documents using markdown and styling.
+                            Compiles to HTML pages with inch, point, pixel, or percent measurements.
+
+                            This Resume is created with DocBuilder and the source can be found here:
+                            [Clinery1/resume](https://github.com/Clinery1/resume)
+
+                        - ## [CPPL](https://github.com/Clinery1/cppl)
+                            A prototype general-purpose language I am working on.
+
+                            It features prototype-objects like Javascript, but is statically type-checked
+                            instead of dynamic, so there are no errors due to `undefined` things.
+                    }
+                    style {
+                        margin: 0.1in
+                    }
+                }
+                style {
+                    background_color: #f0f0f0
+                }
+            }
+        }
+        style {
+            font_size: 10pt
+            font: FiraCode Nerd Font
+        }
+    }
+}
