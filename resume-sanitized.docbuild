@@ -13,9 +13,10 @@ page {
             section {
                 content {
                     # Education
-                    - AP Computer science
                     - Northeast High School Academy of Information Technology graduate: class of
                         2021
+                    - Georgia Tech coding bootcamp
+                    - Pinellas Technical College CNC Programmer night course
                 }
                 style {
                     margin: 0.1in
@@ -33,12 +34,12 @@ page {
             section {
                 content {
                     # Contact Information
-                    爵 [clinery1.github.io](https://clinery1.github.io)
-                     [github.com/Clinery1](https://github.com/Clinery1)
+                    爵 [Website](https://clinery1.github.io)
+                     [github/Clinery1](https://github.com/Clinery1)
                      *REDACTED*
                      *REDACTED*
                      *REDACTED*
-                     [linkedin.com/in/christopher-nguyen-57622a234](https://www.linkedin.com/in/christopher-nguyen-57622a234/)
+                     [LinkedIn](https://www.linkedin.com/in/christopher-nguyen-57622a234/)
                 }
                 style {
                     margin: 0.1in
@@ -58,7 +59,7 @@ page {
                     Can be verified at [verify.certiport.com](https://verify.certiport.com)
                     - Word: HuHq-XMYb
                     - Excel: ECmc-XVHU
-                    - Powerpoint: EkGQ-XVHy
+                    - PowerPoint: EkGQ-XVHy
                 }
                 style {
                     height: 8%
@@ -71,7 +72,7 @@ page {
                     [^2]:
                     Can be verified at [verify.certiport.com](https://verify.certiport.com)
                     - HTML+CSS: davQ-uTYP
-                    - Javascript: 5a2q-4Tp8
+                    - JavaScript: 5a2q-4Tp8
                 }
                 style {
                     height: 8%
@@ -102,9 +103,10 @@ page {
                 section {
                     content {
                         # Work experience
-                        - Volunteered at a Martial Arts center during “Friday fun night” providing audio/visual support.
-                        - Volunteered at Northeast High school's Academy Of Information Technology (AOIT) open house.
                         - Volunteered summer of 2020 at Paul Acklin’s Superkicks.
+                        - Office Depot as Cashier and Print Specialist from July 2022 - November
+                          2023
+                        - Office Depot as Team Lead from November 2023 - November 2024
                     }
                     style {
                         margin: 0.1in
@@ -122,22 +124,23 @@ page {
                 section {
                     content {
                         # Skills
-                        - C, C++
-                        - x86 Assembly
-                        - Rust
-                        - HTML+CCS+JS
-                        - Python
-                        - Programming language design
-                        - 2 years experience with the Godot game engine
-                        - Game development without a game engine
-                        - 4 years of experience using a Linux CLI
-                        - 2+ years of using only VIM
-                        - Basic CAD drawing: FreeCAD and OpenSCAD
-                        - Experience using and maintaining a 3D printer
-                        - Experience maintaining and assembling laptop and desktop computers
-                        - Experience using a Raspberry PI
-                        - Certified in Word, Excel, and Powerpoint 2016[^1]
-                        - Certified in HTML+CSS and Javascript[^2]
+                        - 6 years using a Linux CLI
+                        - 6 years with HTML+CSS+JS
+                        - 5 years with the Rust language
+                        - 4 years of using NeoVim
+                        - 3 years with FreeCAD
+                        - 3 years with FDM 3D printers
+                        - 3 years with the Godot game engine
+                        - 2 years designing programming languages
+                        - 1 year with Python
+                        - <1 year with MSLA 3D printers
+                        - <1 year C, C++, C#
+                        - <1 year Java
+                        - <1 year x86 Assembly
+                        - <1 year CNC programming
+                        - Maintaining, assembling, and troubleshooting laptop and desktop computers
+                        - Certified in Word, Excel, and PowerPoint 2016[^1]
+                        - Certified in HTML+CSS and JavaScript[^2]
                     }
                     style {
                         margin: 0.1in
@@ -154,7 +157,7 @@ page {
                 }
                 section {
                     content {
-                        # Current Projects
+                        # Example Projects
                         - ## [DocBuilder](https://github.com/Clinery1/docbuilder)
                             A language that allows you to create documents using markdown and styling.
                             Compiles to HTML pages with inch, point, pixel, or percent measurements.
@@ -162,11 +165,9 @@ page {
                             This Resume is created with DocBuilder and the source can be found here:
                             [Clinery1/resume](https://github.com/Clinery1/resume)
 
-                        - ## [CPPL](https://github.com/Clinery1/cppl)
-                            A prototype general-purpose language I am working on.
-
-                            It features prototype-objects like Javascript, but is statically type-checked
-                            instead of dynamic, so there are no errors due to `undefined` things.
+                        - ## [Teacher trading app](https://github.com/Clinery1/teacher-trading-app)
+                            A simple application to allow teachers to post supplies they need and
+                            are willing to trade.
                     }
                     style {
                         margin: 0.1in
